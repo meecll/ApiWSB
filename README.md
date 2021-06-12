@@ -10,8 +10,8 @@ Aplikacja zostala napisana z wykorzystaniem:
   "nodemon": "^2.0.7"
 
 
-GET/post/ - wyświetla wszystkie wpisy
-POST/post - dodawanie wpisów/postów
-GET/post/postId - wyświetlanie wybranego wpisu/postu 
-DELETE/post/postId - usunięcie wybranego wpisu/postu 
+GET/post/ - wyświetla wszystkie wpisy,
+POST/post - dodawanie wpisów/postów,
+GET/post/postId - wyświetlanie wybranego wpisu/postu,
+DELETE/post/postId - usunięcie wybranego wpisu/postu,
 UPDATE/post/postId - zaktualizowanie wybranego wpisu/postu
